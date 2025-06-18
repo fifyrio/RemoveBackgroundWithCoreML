@@ -513,6 +513,7 @@
 				DEVELOPMENT_TEAM = ETM6Y43SU4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Remover;
 				INFOPLIST_KEY_NSCameraUsageDescription = "我们需要访问您的摄像头以便您可以拍摄照片.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "我们需要访问您的照片库以便您可以选择图片。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -545,6 +546,7 @@
 				DEVELOPMENT_TEAM = ETM6Y43SU4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Remover;
 				INFOPLIST_KEY_NSCameraUsageDescription = "我们需要访问您的摄像头以便您可以拍摄照片.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "我们需要访问您的照片库以便您可以选择图片。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

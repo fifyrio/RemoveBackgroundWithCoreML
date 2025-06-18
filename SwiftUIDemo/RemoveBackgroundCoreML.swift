@@ -19,7 +19,7 @@ extension UIImage {
         let height: CGFloat = 513
         
         // 将图像调整到指定尺寸
-        let resizedImage = resized(to: CGSize(width: height, height: height), scale: 1)
+        let resizedImage = resized(to: CGSize(width: width, height: height), scale: 1)
         
         // 创建像素缓冲区，进行模型预测，获得语义分割结果，处理得到掩码和模糊效果
         guard let pixelBuffer = resizedImage.pixelBuffer(width: Int(width), height: Int(height)),
