@@ -34,6 +34,7 @@
 		4E8B17A32B204678001C83D2 /* SwiftUIDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8B17A22B204678001C83D2 /* SwiftUIDemoUITests.swift */; };
 		4E8B17A52B204678001C83D2 /* SwiftUIDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8B17A42B204678001C83D2 /* SwiftUIDemoUITestsLaunchTests.swift */; };
 		4EA2612B2CA6AB0500ECC7DE /* DeepLabV3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4EA2612A2CA6AB0500ECC7DE /* DeepLabV3.mlmodel */; };
+		390C2BAB53E449B4B34F723A /* SegmentationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131737038ACF41B1B255664D /* SegmentationViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		131737038ACF41B1B255664D /* SegmentationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentationViewModel.swift; sourceTree = "<group>"; };
 		4E0BC7932CA953DB00AB9D35 /* WWImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WWImagePicker.swift; sourceTree = "<group>"; };
 		4E0BC7952CA9541300AB9D35 /* OpenGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenGalleryView.swift; sourceTree = "<group>"; };
 		4E0BC7972CA954B000AB9D35 /* RemoveBackgroundCoreML.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveBackgroundCoreML.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				4E8B17872B204677001C83D2 /* SwiftUIDemoApp.swift */,
 				4E0BC7932CA953DB00AB9D35 /* WWImagePicker.swift */,
 				4E0BC7952CA9541300AB9D35 /* OpenGalleryView.swift */,
+				131737038ACF41B1B255664D /* SegmentationViewModel.swift */,
 				4E0BC7972CA954B000AB9D35 /* RemoveBackgroundCoreML.swift */,
 				4E0BC7AA2CA9551A00AB9D35 /* CoreMLHelpers */,
 				4EA2612A2CA6AB0500ECC7DE /* DeepLabV3.mlmodel */,
@@ -338,6 +341,7 @@
 				4E0BC7AB2CA9551A00AB9D35 /* Array+Extensions.swift in Sources */,
 				4E0BC7B62CA9551A00AB9D35 /* MLMultiArray+Image.swift in Sources */,
 				4E0BC7962CA9541300AB9D35 /* OpenGalleryView.swift in Sources */,
+				390C2BAB53E449B4B34F723A /* SegmentationViewModel.swift in Sources */,
 				4E8B17882B204677001C83D2 /* SwiftUIDemoApp.swift in Sources */,
 				4E0BC7AF2CA9551A00AB9D35 /* CoreML+Combine.swift in Sources */,
 				4E0BC7B82CA9551A00AB9D35 /* Predictions.swift in Sources */,
